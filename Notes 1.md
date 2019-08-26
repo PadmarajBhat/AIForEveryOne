@@ -23,3 +23,21 @@
       * Graphical models 
       * etc
    * Data Science may have a piece from all the 3: AI, ML and DL
+
+* In the Internet Era:
+  * A/B testing
+  * Short decision time
+  * decision likes with data engineers
+  
+* In the AI Era:
+  * Data Acquiring stratergies
+  * Unified data warehourse: so that engineers can focus on data analysis and not on the policies.
+  * Pervasive Automation
+  * new role like ML engineer
+  
+ * AI Transformation steps:
+   * Execute Pilot projects to gain momentum
+   * Build In house AI Team
+   * Provide Broad AI Training
+   * Develop AI Stratergy
+   * Internal and external communication about the stratergy to stake holders.
