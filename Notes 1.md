@@ -41,3 +41,8 @@
    * Provide Broad AI Training
    * Develop AI Stratergy
    * Internal and external communication about the stratergy to stake holders.
+   
+ * What AI Can Do ?
+   * Anything that is simple and takes <= 1 sec of human intuition to predict.
+   * The set of activities that AI can do increases constantly. Hence, each project has to carefully reviewed before taking up.
+   * My own intuition is that, with the preliminary knowledge of machine learning, would a human agree to the fact that the feature set is instrumental to predict the label or not. If yes, take up tha project.
