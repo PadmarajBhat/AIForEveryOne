@@ -50,3 +50,8 @@
 * Examples of AI Cannot Do:
    * AI can look at the image and identify the components of the image and then decide to caption or drive a car. However, it cannot identify the reason of a gesture from person because there are n number of intents behind gestures. There is humongous requirement of all the images with various intent.
    * Though AI can identify the component of the image it might not be possible for all the stuffs that a human can derive or generalize by looking at the image. If the model has been trained on the vertical x-ray image it cannot recognize the slanted image taken at an angle of an x-ray lying on the table.
+   
+ * Deep Learning:
+    * In a nutshell, each neuron tries to perform a very simple operation of linear fit and when stacked upon each other, the dense layer starts to accumulate the learnt values from the last layer and provides a higher abstraction or generalization to next layer.
+    * Images are stored internally as numbers and color images have depth, so images are transformed 2x3 shape to single dimention (in case of non convolution approach) and then are fed to neurons. In each layers, components of the images are learnt and in the final layers combination of those components are learnt there by understanding image as a whole through stacked approach.
+    * Even in a case structured data (labeled data), initial layer tries to identify the first level of co relation and in deeper layers it tries to identify the permutation of features and thier co relation to label.
