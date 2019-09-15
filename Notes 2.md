@@ -6,3 +6,7 @@
         * train data: it is not just model.fit. selection of metric to evaluate, experimentation with models, hyper parameter tuning, loss function and optimizer, thourough testing
         * deploy: take into consideration of size of model and its compatibility with host device (mobile cloud js). Thorough plan on data feedback to improve the model. CI/CD plan may be through tensorflow extended
         
+
+* Workflow of datascience project
+   * collect data ==> analyze data ==> hypothesis and actions
+      * a datascientist would have various ideas to analyze the data from different angles and finally come up with hypothesis about the problem statement. He would also provide visualization on the insights.
