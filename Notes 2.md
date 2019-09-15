@@ -10,3 +10,5 @@
 * Workflow of datascience project
    * collect data ==> analyze data ==> hypothesis and actions
       * a datascientist would have various ideas to analyze the data from different angles and finally come up with hypothesis about the problem statement. He would also provide visualization on the insights.
+
+* Datascience is about analytics and machine learning is about targetting a solution. Datascience is about exploring and ml is to exploit the one we have (data). Based on the data analytics business makes decision to go ahead with ml and its encompassing application.
