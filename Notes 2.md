@@ -32,3 +32,20 @@
    * can help with smaller data set
    * at times even the business requirement is short term and need not want higher accuracy 
 
+* Case study to identify the components of the complex AI:
+   * Smart Speaker: 
+      * Indentify the trigger word
+      * speech recognition
+      * intent detection
+      * execution
+   * Self driving car:
+      Inut
+      * Image/ radar
+      * GPS /map
+            * car detection
+            * pedestrian detection
+            * lane detection
+            * obstacle detection
+            * trajectory detection
+               * motion planning
+      
