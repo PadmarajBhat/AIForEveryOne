@@ -19,7 +19,9 @@
 * Not all AI projects be important to business and not business relavant problem can be addressed by AI.
    * team composite of bothe domain and ai expert should finalize the scope of AI project
    * due deligence of cost and time has to be assessed by both AI and business team
-
+   * Business team should make sure that adequate data and expected accuracy.
+   * AI team might use terms like packages (TF, keras etc), CPU and GPU and also on prem/cloud/edge deployment
+      * edge is deploying the model where data resides.
 * AI does not replaces the jobs but replaces the repeated tasks in the job. And there by augmenting the professional.
    
 
