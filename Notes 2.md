@@ -48,4 +48,13 @@
             * obstacle detection
             * trajectory detection
                * motion planning
-      
+* AI Team usuallly (not mandatorily) has below teams:
+   * software engineers - specialized task/actions on ml predictions
+   * machine learning engineer - building model and meets the expected accuracy
+   * machine learning research - extends the state of the art in ml
+   * applied ml scientist -  ml engineer + researcher
+   * Data scientist - insight driven presentation to teams/executives
+   * Data Engineer - 
+      - Organize data
+      - accessible, secure and cost effective way
+   * AI Product manager - makes decision of what is feasible and valueable
