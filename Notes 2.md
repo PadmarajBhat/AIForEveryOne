@@ -58,3 +58,13 @@
       - Organize data
       - accessible, secure and cost effective way
    * AI Product manager - makes decision of what is feasible and valueable
+
+* AI Transformation Playbook
+   * Execute pilot projects to gain momentum
+      * experiment a little to gain traction which would kick start momentum of the AI project drive
+   * Build in house AI Team
+      * One team catering to multiple bu units. So that company can stratergise AI skillset development and thus other domains can leverage it.
+   * AI training:
+      * leads and executive : AI essentials and stratergy, resource allocation 
+      * AI software engineering team :  hands on training for AI fundamentals 
+      
