@@ -71,3 +71,8 @@
       * AI can be only specific to industry specific
       * keep cycling around collecting more data and improve product.
       * there may be an industry which might be doing similar work but your team need not compete with it. All we need to do is focus on applying latest industry standard available for our purpose.
+      * Data Stratergy: single warehouse connecting the business (data lake)
+   * Internal and external communication:
+      * Stake holder communication
+      * explainability of the AI for governance
+      * training customer for acceptance of solution (setting right expectation)
