@@ -67,4 +67,7 @@
    * AI training:
       * leads and executive : AI essentials and stratergy, resource allocation 
       * AI software engineering team :  hands on training for AI fundamentals 
-      
+   * AI Stratergy :
+      * AI can be only specific to industry specific
+      * keep cycling around collecting more data and improve product.
+      * there may be an industry which might be doing similar work but your team need not compete with it. All we need to do is focus on applying latest industry standard available for our purpose.
