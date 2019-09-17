@@ -76,3 +76,28 @@
       * Stake holder communication
       * explainability of the AI for governance
       * training customer for acceptance of solution (setting right expectation)
+      
+      
+* AI UseCases:
+   * Computer Vision:
+      * Image classification
+         * Face Recognition
+      * Object Detection
+      * Image Segmentation
+      * Tracking :for video (where the runners move it all the time)
+   * Natural Language Processing
+      * Text Classification
+         * Sentiment classification
+         * Information retrieval
+            * web search
+         * Name Entity Recognition
+         * parsing or parts of speech tagging
+   * Speech
+      * Speech recoginition
+      * Trigger word detection
+      * Speech ID
+      * speech synthesis
+   * Robotics
+      * perception : awareness of the surrounding
+      * motion planning: path to move
+      * control: action to take an instance
