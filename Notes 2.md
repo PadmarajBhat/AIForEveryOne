@@ -101,3 +101,9 @@
       * perception : awareness of the surrounding
       * motion planning: path to move
       * control: action to take an instance
+      
+   * Unsupervised learning:
+      * clustering: only clustering ?
+      * Transfer learning
+      * GAN
+      * Re inforcement learning  
