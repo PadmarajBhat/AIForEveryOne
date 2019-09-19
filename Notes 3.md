@@ -26,3 +26,9 @@
    * Images can be changed minutely so that human eye cannot distinguish but may make the AI system to detect it as different object (gultoo)
    * A model large enough to predict large classes can be fooled by simple addition/embedding couple more information with it.
       *  a fraudulent transaction can be made realistic just by making most of the parameter that model considers for classification as close to non fraudulent one. 
+      
+* Adverse uses of AI
+   * Deep fake: video modified to immitate that never happened.
+   * Undermining of democracy or policies
+   * generating fake comments
+   * spam vs anti spam, fraud and anti fraud
