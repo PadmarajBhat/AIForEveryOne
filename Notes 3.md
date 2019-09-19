@@ -32,3 +32,9 @@
    * Undermining of democracy or policies
    * generating fake comments
    * spam vs anti spam, fraud and anti fraud
+
+* AI and Developing Economies:
+   * He suggests that developed nation can share the experience on its early journey on AI with developing nation so that they get rid of the outdated techniques and thus helping them to catch up on the advancement. Of course, there can be market competetion developed countries need to keep the pace up but can share at least the bare minimum which will not only keep them the leader but also do the sharing part.
+   * every nation should try to focus on adapting AI on the area where the nation wants to invest in the future( rather to start everything)
+   * govt and private corporation can work together for the AI advancement.
+   * AI Training
