@@ -38,3 +38,7 @@
    * every nation should try to focus on adapting AI on the area where the nation wants to invest in the future( rather to start everything)
    * govt and private corporation can work together for the AI advancement.
    * AI Training
+   
+ * AI and Jobs
+   * AI is automation on steroids :P . Automatable jobs will be lost but in the mean time new opportunities would spun up related to AI.
+   * it is advisable to learn AI and apply it in the respective area so as to further strengthen the core areas.
